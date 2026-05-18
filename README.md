@@ -9,8 +9,13 @@ You can view all posts in my LinkdIn, click on the link: www.linkedin.com/in/tej
 
 ## Structure of Repo
 
-- all_previous_posts - contains all the folders from 1st challange.
-- Home - Contains LICENSE and the recent post folders
+-> Co-learning-VLSI-Design-N-Verfication
+   |
+   |
+   - all_previous_posts - contains all the folders from 1st challange.
+   |
+   |
+   - Home - Contains LICENSE and the recent post folders
 
 
 
@@ -21,5 +26,5 @@ As an VLSI (about to be) frontend engineer and my intrest falls towards verifica
 start:
 - [x] Verilog based design verification.
 - [ ] Python based design verification.
-_ [ ] SystemVerilog based design verification.
+- [ ] SystemVerilog based design verification.
 - [ ] UVM based design verification.
