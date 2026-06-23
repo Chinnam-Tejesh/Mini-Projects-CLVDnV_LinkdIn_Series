@@ -6,12 +6,6 @@ This repo is backup for my work on VLSI Frontend Design and Verification challan
 
 You can view all posts in my LinkdIn, click on the link: www.linkedin.com/in/tejesh-sri-abhay-chinnam and navigate to "posts", for more details regarding the problem view the respective post.  
 
-## Structure of Repo
-
-- Co-learning-VLSI-Design-N-Verfication
-   - |- Home - Contains LICENSE and the recent / working posts folders.
-   - |- all_previous_posts - contains all the folders from 1st challange.
-
 
 ## Post and Project
 
@@ -30,6 +24,13 @@ Both design and verification are done for the bellow projects (without an except
 | Post 3 | 3:8 decoder using 2:4 decoder |
 | Post 2 | 4x1 Mux using 2x1 Mux|
 | Post 1 | 7 logic gates|
+
+
+## Structure of Repo
+
+- Co-learning-VLSI-Design-N-Verfication
+   - |- Home - Contains LICENSE and the recent / working posts folders.
+   - |- all_previous_posts - contains all the folders from 1st challange.
 
 
 ## My milestones
