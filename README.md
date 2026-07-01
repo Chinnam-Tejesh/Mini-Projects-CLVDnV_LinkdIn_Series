@@ -2,7 +2,7 @@
 
 Hello and Welcome :)   
 
-This repo is backup for my work on VLSI Frontend Design and Verification challanges i have implemented & posted on LinkdIn as part of CLVDnV series (CLVDnV stands for Co-learning-VLSI-Design-N-Verfication).  
+This repo is work backup of VLSI Frontend Design and Verification challanges i have implemented & posted on LinkdIn as part of CLVDnV series (CLVDnV stands for Co-learning-VLSI-Design-N-Verfication).  
 
 You can view all posts in my LinkdIn, click on the link: www.linkedin.com/in/tejesh-sri-abhay-chinnam and navigate to "posts", for more details regarding the problem view the respective post.  
 
